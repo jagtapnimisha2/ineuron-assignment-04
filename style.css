@@ -1,0 +1,105 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+nav div{
+    display: inline;
+    
+}
+.list{
+    display: inline;
+    margin-left: 60px;
+    
+}
+.list-item{
+    position: relative;
+    display: inline;
+    margin-left: 20px;
+    bottom: 35px;
+    font-size: 20px;
+    font-weight: light;
+    color: gray;
+}
+#home{
+    font-weight: bold;
+    color: black;
+}
+.button-group{
+    position: relative;
+    bottom: 25px;
+    left: 33%;
+}
+.nav-button{
+    height: 50px;
+    width: 150px;
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    background-color: rgb(88, 56, 176);
+    border-radius: 10px;
+    border: none;
+    font-size: larger;
+    color: white;
+    
+
+}
+.Left-text{
+    display: inline;
+    position: absolute;
+    width: 30%;
+    left: 5%;
+    top: 220px;
+    color: rgb(52, 18, 80);
+   
+}
+div h1,p{
+display: inline-block;
+}
+.right-text{
+    display: inline;
+    position: absolute;
+    width: 40%;
+    left: 50%;
+    
+}
+.imgright{
+    position: relative;
+    display: inline;
+    width: 45%;
+    right: 0%;
+    left: 55%;
+    top: 100px;
+}
+.heading-text{
+    font-size: 50px;
+}
+.description{
+    font-size: 18px;
+    position: relative;
+    top: 15px;
+    bottom: 20px;
+    font-weight: lighter;
+    color: gray;
+    width: 90%;
+}
+.navbar-container{
+    position: relative;
+    left: 5%;
+    width: 90%;
+    top: 50px;
+    height: 50px;
+}
+.btn{
+    position: relative;
+    top: 80px;
+    background-color: rgb(88, 56, 176);
+    border-radius: 10px;
+    border: none;
+    width: 200px;
+    color: white;
+    left: 2%;
+    font-size: larger;
+}
+span{
+    color:  rgb(88, 56, 176);;
+}
